@@ -4,6 +4,7 @@ PoseGait is a model-based gait recognition method with body pose and human prior
 Link to paper:
 - [A model-based gait recognition method with body pose and human
 prior knowledge](http://r.web.umkc.edu/rlyfv/papers/poseGait.pdf)
+Please contact with me (rijun.liao@gmail.com) if you have any questions. Thank you!
 
 ## Prerequisites
 
