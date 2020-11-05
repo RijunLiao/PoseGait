@@ -38,4 +38,20 @@ Please cite these papers in your publications if it helps your research:
   year={2020},
   publisher={Elsevier}
 }
+@inproceedings{an2018improving,
+  title={Improving gait recognition with 3D pose estimation},
+  author={An, Weizhi and Liao, Rijun and Yu, Shiqi and Huang, Yongzhen and Yuen, Pong C},
+  booktitle={Chinese Conference on Biometric Recognition},
+  pages={137--147},
+  year={2018},
+  organization={Springer}
+}
+@inproceedings{liao2017pose,
+  title={Pose-based temporal-spatial network (PTSN) for gait recognition with carrying and clothing variations},
+  author={Liao, Rijun and Cao, Chunshui and Garcia, Edel B and Yu, Shiqi and Huang, Yongzhen},
+  booktitle={Chinese Conference on Biometric Recognition},
+  pages={474--483},
+  year={2017},
+  organization={Springer}
+}
 ```
